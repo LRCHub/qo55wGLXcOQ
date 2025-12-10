@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Chessboard",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-10T09:35:48.791662Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pawn on the Universal Chessboard, Pt. 6: Let There Be No Light",
+      "artist": "A Forest of Stars",
+      "has_synced": false,
+      "path": "select/01_Pawn_on_the_Universal_Chessboard,_Pt._6__Let_There_Be_No_Light_A_Forest_of_Stars.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chessboard",
+      "artist": "Official HIGE DANdism",
+      "has_synced": false,
+      "path": "select/02_Chessboard_Official_HIGE_DANdism.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chessboard",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/03_Chessboard_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "chessboard",
+      "artist": "official hige dandism",
+      "has_synced": true,
+      "path": "select/04_chessboard_official_hige_dandism.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chessboard",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/05_Chessboard_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pawn on the Universal Chessboard, Pt. 5: Lowly Worm",
+      "artist": "A Forest of Stars",
+      "has_synced": false,
+      "path": "select/06_Pawn_on_the_Universal_Chessboard,_Pt._5__Lowly_Worm_A_Forest_of_Stars.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pawn on the Universal Chessboard, Part III: Perdurabo",
+      "artist": "A Forest of Stars",
+      "has_synced": false,
+      "path": "select/07_Pawn_on_the_Universal_Chessboard,_Part_III__Perdurabo_A_Forest_of_Stars.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pawn on the Universal Chessboard, Part II: Have You Got a Light, Boy?",
+      "artist": "A Forest of Stars",
+      "has_synced": false,
+      "path": "select/08_Pawn_on_the_Universal_Chessboard,_Part_II__Have_You_Got_a_Light,_Boy_A_Forest_of_Stars.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chessboard",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Chessboard_Official髭男dism.txt"
+    }
+  ]
+}
